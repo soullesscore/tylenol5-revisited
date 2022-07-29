@@ -1,5 +1,10 @@
 # Tylenol 5
-Versão mais atual do Tylenol
+Versão mais nova e atual do Tylenol
+
+## Créditos
+- [Aqua Strikr](https://twitter.com/AquaStrikr_) - Programador e artista
+- [Mib'sfiha](https://twitter.com/Mibsfiha) - Programador Adicional
+- [Weedgee](https://youtube.com/c/Weegee0DRONZER) - viciado do krl q usa essa bagaça todo dia
 
 ## Novas coisas
 - Incluí todas as coisas das versões anteriores

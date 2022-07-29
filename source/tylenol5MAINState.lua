@@ -17,3 +17,4 @@
     tylenol5.overdose = true
             only = turnsIntoLuigifromMario64
 
+LeanSupport = true

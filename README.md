@@ -1,5 +1,5 @@
 # Tylenol 5
-Versão mais nova e atual do Tylenol
+Versão mais nova e atual do Tylenol (com Lean)
 
 ## Créditos
 - [Aqua Strikr](https://twitter.com/AquaStrikr_) - Programador e artista

@@ -7,7 +7,7 @@ Versão mais nova e atual do Tylenol (com Lean)
 - [Weedgee](https://youtube.com/c/Weegee0DRONZER) - viciado do krl q usa essa bagaça todo dia
 
 ## Novas coisas
-- Incluí todas as coisas das versões anteriores
+- Inclui todas as coisas das versões anteriores
 - Opção de mudar o nível de alucinações causadas
 - Opção de manipular sonhos
 

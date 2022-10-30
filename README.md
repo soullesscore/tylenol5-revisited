@@ -2,7 +2,7 @@
 Versão mais nova e atual do Tylenol (com Lean)
 
 ## Créditos
-- [SOULC0DE](https://twitter.com/SOULC0DE69K) - Programador e artista
+- [SOULC0DE](https://twitter.com/SOULC0DE69K) - Programador
 - [Mib'sfiha](https://twitter.com/Mibsfiha) - Programador Adicional
 - [Weedgee](https://youtube.com/c/Weegee0DRONZER) - viciado do krl q usa essa bagaça todo dia
 
@@ -16,7 +16,3 @@ Versão mais nova e atual do Tylenol (com Lean)
 
 ### Notas Adicionais
 Esse trem tá incompleto, se você virar o Luigi do Mario 64 não me culpe
-
-#### lugares que eu frequento
-- [twitter](https://twitter.com/SOULC0DE69K)
-- [newgrounds](https://soulc0de.newgrounds.com)

@@ -2,9 +2,9 @@
 Versão mais nova e atual do Tylenol (com Lean)
 
 ## Créditos
-- [SOULC0DE](https://twitter.com/SOULC0DE69K) - Programador
+- [SOULCORE00](https://twitter.com/SOULCORE00) - Programador
 - [Mib'sfiha](https://twitter.com/Mibsfiha) - Programador Adicional
-- [Weedgee](https://youtube.com/c/Weegee0DRONZER) - viciado do krl q usa essa bagaça todo dia
+- [Weedgee0DRONZER](https://youtube.com/c/Weegee0DRONZER) - viciado do krl q usa essa bagaça todo dia
 
 ## Novas coisas
 - Inclui todas as coisas das versões anteriores

@@ -1,18 +1,33 @@
-# Tylenol 5
+# Revisited
+
+Branch Rework, now an in-works executable made with Lua
+
+## Credits:
+- Soullesscore - Programmer
+
+-----------------------
+
+#### (Legacy Desc.) Tylenol 5
 Versão mais nova e atual do Tylenol (com Lean)
 
-## Créditos
-- [SOULCORE00](https://twitter.com/SOULCORE00) - Programador
-- [Mib'sfiha](https://twitter.com/Mibsfiha) - Programador Adicional
-- [Weedgee0DRONZER](https://youtube.com/c/Weegee0DRONZER) - viciado do krl q usa essa bagaça todo dia
+ **Credits**
+- [SOULCORE00](https://twitter.com/SOULCORE00) - Programmer
+- [Mib'sfiha](https://twitter.com/Mibsfiha) - Additional Programmer
+- [Weedgee0DRONZER](https://youtube.com/c/Weegee0DRONZER) - bum who uses ts everyday :sob:
 
-## Novas coisas
-- Inclui todas as coisas das versões anteriores
-- Opção de mudar o nível de alucinações causadas
-- Opção de manipular sonhos
+ **New Additions**
+- Includes all additions from past versions
+- Added option to crank up or down your hallucinations
+- Added option to manipulate dreams
 
-## Remoções
-- Se transformar no CJ (GTA: San Andreas)
+**Removals**
+- Turn into Carl Johnson (Grand Theft Auto: San Andreas)
 
-### Notas Adicionais
-Esse trem tá incompleto, se você virar o Luigi do Mario 64 não me culpe
+-----
+
+<div>
+  
+*Additional Notes:*
+ts is incomplete, if you turn into Luigi from SM64, it's on you homie (xd)
+
+</div>

@@ -8,7 +8,7 @@ Branch Rework, now an in-works executable made with Lua
 -----------------------
 
 #### (Legacy Desc.) Tylenol 5
-Versão mais nova e atual do Tylenol (com Lean)
+Newst and updated version of Tylenol, with Lean Suppport
 
  **Credits**
 - [SOULCORE00](https://twitter.com/SOULCORE00) - Programmer

@@ -1,6 +1,6 @@
 # Revisited
 
-Branch Rework, now an in-works executable made with Lua
+Branch Rework, now an actual in-works executable made with Lua
 
 ## Credits:
 - Soullesscore - Programmer
